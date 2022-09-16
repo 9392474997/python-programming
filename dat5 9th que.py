@@ -8,4 +8,3 @@ b1=[]
 for i in range(a1):
     c1=int(input("Enter element:"))
     b1.append(c1)
-for i in 
